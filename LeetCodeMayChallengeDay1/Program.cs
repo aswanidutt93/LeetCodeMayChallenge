@@ -31,6 +31,11 @@ namespace LeetCodeMayChallengeDay1
             return left;
         }
 
+        static void Main(string[] args)
+        {
+            
+        }
+
     }
 
     public class VersionControl

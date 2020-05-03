@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeMayChallengeDay1", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeMayChallengeDay2", "LeetCodeMayChallengeDay2\LeetCodeMayChallengeDay2.csproj", "{A71990B9-03E2-4108-A35B-5625410C9DE3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCodeMayChallengeDay3", "LeetCodeMayChallengeDay3\LeetCodeMayChallengeDay3.csproj", "{D91774F2-AD8F-46D1-B3BF-3FD8628BF7DA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A71990B9-03E2-4108-A35B-5625410C9DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A71990B9-03E2-4108-A35B-5625410C9DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A71990B9-03E2-4108-A35B-5625410C9DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D91774F2-AD8F-46D1-B3BF-3FD8628BF7DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D91774F2-AD8F-46D1-B3BF-3FD8628BF7DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D91774F2-AD8F-46D1-B3BF-3FD8628BF7DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D91774F2-AD8F-46D1-B3BF-3FD8628BF7DA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

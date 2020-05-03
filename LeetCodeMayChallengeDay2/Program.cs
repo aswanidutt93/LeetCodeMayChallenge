@@ -8,6 +8,10 @@ namespace LeetCodeMayChallengeDay2
 {
     public class Solution
     {
+        static void Main(string[] args)
+        {
+            
+        }
         public int NumJewelsInStones(string J, string S)
         {
             int count = 0;
