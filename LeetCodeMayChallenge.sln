@@ -27,7 +27,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveKDigits", "RemoveKDig
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OddEvenLinkedList", "OddEvenLinkedList\OddEvenLinkedList.csproj", "{A974575A-C7B2-4EEB-AD8F-A06C10CBFC18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnagramsInString", "AnagramsInString\AnagramsInString.csproj", "{675DAB12-5B76-4127-9C06-8A48FE683EFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnagramsInString", "AnagramsInString\AnagramsInString.csproj", "{675DAB12-5B76-4127-9C06-8A48FE683EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PermutationInString", "PermutationInString\PermutationInString.csproj", "{6EAC4133-A398-4D8A-B5A1-E2CF28968982}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{675DAB12-5B76-4127-9C06-8A48FE683EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{675DAB12-5B76-4127-9C06-8A48FE683EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{675DAB12-5B76-4127-9C06-8A48FE683EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EAC4133-A398-4D8A-B5A1-E2CF28968982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EAC4133-A398-4D8A-B5A1-E2CF28968982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EAC4133-A398-4D8A-B5A1-E2CF28968982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EAC4133-A398-4D8A-B5A1-E2CF28968982}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
